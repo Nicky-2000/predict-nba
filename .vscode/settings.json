@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/opt/anaconda3/envs/basketball-predictor/bin/python",
+    "jupyter.jupyterServerType": "local"
+}
